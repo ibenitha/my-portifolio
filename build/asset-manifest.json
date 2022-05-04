@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.330c1428.css",
+    "main.js": "/static/js/main.d5ead66f.js",
+    "static/media/Proj3.png": "/static/media/Proj3.69568879ef1cd4a959fa.png",
+    "static/media/Proj4.png": "/static/media/Proj4.f0bc5722f20397556ee6.png",
+    "static/media/Proj2.png": "/static/media/Proj2.fe47f500df7da95d221f.png",
+    "static/media/vew.png": "/static/media/vew.718660abac29c5f78142.png",
+    "static/media/Proj1.png": "/static/media/Proj1.532161bf0ed6a03e9cc1.png",
+    "static/media/vimo.png": "/static/media/vimo.bccd1abea66fd5aede52.png",
+    "static/media/gold.png": "/static/media/gold.96b9048145e96a24b895.png",
+    "static/media/resume.pdf": "/static/media/resume.e8c9f19da3daf0559871.pdf",
+    "static/media/wlog.png": "/static/media/wlog.336d28fb7535cef5aa19.png",
+    "static/media/foota.jpg": "/static/media/foota.dc9bd620700ff3c66cf4.jpg",
+    "static/media/humble.png": "/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/glasses.png": "/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/index.html",
+    "main.330c1428.css.map": "/static/css/main.330c1428.css.map",
+    "main.d5ead66f.js.map": "/static/js/main.d5ead66f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.330c1428.css",
+    "static/js/main.d5ead66f.js"
+  ]
+}
